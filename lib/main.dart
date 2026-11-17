@@ -6,7 +6,7 @@ import 'widgets/kartu_menu.dart';
 void main() => runApp(const UmkmApp());
 
 // Satu-satunya warna yang ditulis langsung: seed color.
-const _benih = Color(0xFFB23A00);
+const _benih = Color.fromARGB(255, 155, 89, 2);
 
 // Ganti dengan foto usaha Anda (Image.asset) atau URL gambar lain.
 const _urlGambar = 'https://picsum.photos/id/292/800/450';
